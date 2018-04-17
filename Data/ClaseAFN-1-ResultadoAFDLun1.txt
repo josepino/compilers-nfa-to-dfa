@@ -1,0 +1,5 @@
+Q0 N a:Q1 b:Q2
+Q1 N a:Q1 b:Q3
+Q2 N a:Q1 b:Q2
+Q3 N a:Q1 b:Q4
+Q4 S a:Q1 b:Q2

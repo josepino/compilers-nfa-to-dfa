@@ -43,6 +43,7 @@ A) Cada linea representa un nodo y tiene varios parametros separados por espacio
 El primer nodo del archivo se asumirá como el nodo inicial.
 
 Ejemplo de AF en archivo luego de aplicar Thompson para la expresion regular (a|b)*abb :
+```
 0 N E:1 E:7
 1 N E:2 E:4
 2 N a:3
@@ -54,7 +55,7 @@ Ejemplo de AF en archivo luego de aplicar Thompson para la expresion regular (a|
 8 b:9
 9 b:10
 10 S
-
+```
 
 
 

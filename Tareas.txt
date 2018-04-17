@@ -1,0 +1,7 @@
+Tareas:
+1. Reescribir código. Eliminar cosas que no se usan o que están fuera del alcance.
+2. Reescribir documentacion
+3. Entender bien
+4. Hacer presentacion (?) con ejemplos (mañana?)
+5. Agregar el tema de expresiones regulares y lo previo que falta
+
